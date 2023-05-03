@@ -1,0 +1,28 @@
+.rodape {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icons {
+  font-size: 80px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.box1{
+  background-color: #008cff;
+  height: 120px;
+}
+
+.box2{
+  background-color: #008cff;
+  height: 60px;
+}
+
+.texto{
+  color: white;
+}

@@ -1,0 +1,31 @@
+.bg-home {
+  background-color: #ffecd1;
+  min-height: 100vh;
+}
+
+.img {
+  width: 500px;
+  height: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+.title-text {
+  color: #001524 !important;
+  font-weight: bold;
+}
+
+.botao{
+  border-color: rgb(143, 143, 143) !important;
+  background-color:#008cff !important;
+  color: rgb(112, 112, 112) !important;
+  font-weight: bold !important;
+}
+
+.botao:hover {
+  background-color: #008cff !important;
+}
+
+.postagens{
+  background-color: white;
+}
